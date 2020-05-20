@@ -26,5 +26,5 @@
 ### 7. Before test our model we give the names of person according to our dataset numbers. it take the dataset from "./model/Test/" directory and predict .
 
 ### After prediction 
-[vishnupal](test1.jpg)
+![vishnupal](test1.jpg)
 #### Note :- Number of classes always 2 or more then 2 . bcz here we are using classification 
