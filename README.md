@@ -10,7 +10,10 @@
 #### 5.keras 
 #### 6.harcascade file 
 #### 7.numpy
+### here i use mobilenet model 
 ## PROCESS IN PHOTO CAPTURING
+#
+### open the capture.ipynb and run this file it use for capture you object photo
 ### 1. first of all ask For which job do you want to capture photo
 ##### for training press 1 and for testing press 2
 ### 2. then check the if else condition if value is 1 then run for training purpose and 2 for testing and give invalid number then it is exit.
